@@ -1,0 +1,6 @@
+{
+  "name": "CareerConnect AI",
+  "description": "AI-Powered Career Ecosystem for Rajasthan Technical Education Dept (SIH1632)",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
